@@ -1,3 +1,5 @@
+# README.md
+
 This installer has the following features:
 
 - **Automatic Reboot & Resume**: When run without flags (for a full installation), the script now automatically reboots the system after installing core packages and drivers—a step often necessary for kernel modules to load correctly.
