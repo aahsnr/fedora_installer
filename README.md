@@ -1,4 +1,4 @@
-# README.md
+# README
 
 This installer has the following features:
 
