@@ -1,5 +1,16 @@
 # README
 
+## Setting up development environment
+
+Once you nix installed, run the following commands sequentially inside this project directory
+
+```shell
+nix-build
+nix-shell
+```
+
+## Information About Fedora Installer
+
 This installer has the following features:
 
 - **Automatic Reboot & Resume**: When run without flags (for a full installation), the script now automatically reboots the system after installing core packages and drivers—a step often necessary for kernel modules to load correctly.
