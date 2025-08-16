@@ -74,7 +74,7 @@ A new `resume_manager.py` file has been added to handle the reboot and resume lo
     ├── source_installer.py
     ├── system_hardening.py
     ├── service_creator.py
-    ├── resume_manager.py     # <-- NEW FILE
+    ├── resume_manager.py
     ├── engine.py
     └── install.py
 ```
